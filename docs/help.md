@@ -1,6 +1,6 @@
 # 帮助页
 
-::: details 点我查看代码
+::: details 点我查看最速解决办法
 ```Rubbish(bushi)
 这都不会？问你群友去！
 [Join US](/join)
