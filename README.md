@@ -18,7 +18,11 @@ yarn docs:build
 
 ### 在 Cloudflare Page 部署
 
-在`变量`一栏增加以下内容：
+1. `fork`本仓库
+
+2. 打开 Cloudflare 控制台，在`Workers 和 Pages`选择`创建应用程序` > `Page` > `连接到 Git`，选择你刚刚 fork 的仓库
+
+3. 在`变量`一栏增加以下内容：
 
 ```bash
 NODE_VERSION = 20.11.1
@@ -30,7 +34,11 @@ YARN_VERSION = 1.22.22
 - 构建命令设置为 `yarn docs:build`
 - 输出目录设置为 `docs/.vitepress/dist/`
 
-点击`部署`即可。
+4. 点击`部署`即可。
+
+### 在 Netlify / Vercel 部署
+
+直接使用预设好的`Vitepress`即可
 
 ### 在 GitHub Page 部署
 
