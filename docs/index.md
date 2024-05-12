@@ -11,7 +11,7 @@ hero:
       link: /Join
     - theme: alt
       text: 风景一览
-      link: /View
+      link: /view
     - theme: alt
       text: 获取帮助
       link: /help
