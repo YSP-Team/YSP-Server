@@ -16,7 +16,7 @@ hero:
       text: 获取帮助
       link: /help
   image:
-    src: /image/logo.png
+    src: https://t-imghost.pages.dev/file/af2ee627d5e5152c79818.png
     alt: logo
 
 features:
