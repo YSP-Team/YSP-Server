@@ -4,6 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "烟渚 & 天穹 & 鸽城 ",
   description: "公益MOD城市服 丨 Minecraft服务器",
+  head: [['link', { rel: 'icon', href: 'https://img-webstatic.mcwfmtr.cc/2024/05/06/66385de45ba08.jpg' }]],
+  locales: {
+    root: {
+      label: '简体中文',
+      lang: 'zh-hans'
+    },
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -21,7 +28,9 @@ export default defineConfig({
     logo: '/logo.png',
     socialLinks: [
       { icon: 'QQ Group', link: 'https://qm.qq.com/q/HhoxMGLwyq', }
-    ]
-    
+    ],
+    footer: {
+      copyright: '© 2024 Ynagisa & Skydome & PigeONCity'
+    }
   }
 })
