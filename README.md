@@ -12,7 +12,7 @@ yarn docs:build
 
 打开`docs/.vitepress/dist/`即可看到构建好的文件。
 
-### 在 Cloudfalre Page 部署
+### 在 Cloudflare Page 部署
 
 在`变量`一栏增加以下内容：
 
