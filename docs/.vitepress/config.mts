@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "烟渚 & 天穹 & 鸽城 ",
   description: "公益MOD城市服 丨 Minecraft服务器",
-  head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', href: '/image/logo.png' }]],
   locales: {
     root: {
       label: '简体中文',
@@ -25,12 +25,12 @@ export default defineConfig({
           { text: 'Github repository', link: 'https://github.com/JXSG-UP/YSP-Server' }
         ]}
     ],
-    logo: '/logo.png',
+    logo: '/image/logo.png',
     socialLinks: [
       { icon: 'QQ Group', link: 'https://qm.qq.com/q/HhoxMGLwyq', }
     ],
     footer: {
-      copyright: '© 2024 Ynagisa & Skydome & PigeONCity'
+      copyright: '© 2077 Ynagisa & Skydome & PigeONCity'
     }
   }
 })
