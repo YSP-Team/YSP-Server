@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "烟渚 & 天穹 & 鸽城 ",
   description: "公益MOD城市服 丨 Minecraft服务器",
-  head: [['link', { rel: 'icon', href: 'https://img-webstatic.mcwfmtr.cc/2024/05/06/66385de45ba08.jpg' }]],
+  head: [['link', { rel: 'icon', href: '/logo.png' }]],
   locales: {
     root: {
       label: '简体中文',
