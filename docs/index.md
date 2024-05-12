@@ -17,7 +17,7 @@ hero:
       text: 获取帮助
       link: /help
   image:
-    src: /logo.png
+    src: /docs/logo.png
     alt: logo
 
 features:
