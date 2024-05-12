@@ -1,13 +1,23 @@
 # YSP-Server
 
+**Ynagisa & Skydome & PigeONCity*，让玩家感受人文主义现代化城市之美
+
+这是 烟渚 & 天穹 & 鸽城 的官方网站，采用[`vitepress`](https://vitepress.dev/)作为驱动。
+
 ## 运行
 ### 本地部署
+
+> [!IMPORTANT]  
+> 本地部署指的是在本地构建静态文件，不包含如何部署到 Web 服务，请善用搜索引擎解决部署到 Web 服务的问题
 
 前置要求：
 
 - Node.js ＞＝ 18 
 
-在控制台依次输入以下指令：
+在保证以上事项完成后：
+
+1. `fork`本仓库。
+2. 在控制台依次输入以下指令：
 
 ```bash
 yarn install
@@ -15,6 +25,8 @@ yarn docs:build
 ```
 
 打开`docs/.vitepress/dist/`即可看到构建好的文件。
+
+如需在本地预览，只需要将以上步骤中的`yarn docs:build`替换为`yarn docs:dev`即可，打开`http://localhost:5173/`即可查看。
 
 ### 在 Cloudflare Page 部署
 
