@@ -1,6 +1,6 @@
 # YSP-Server
 
-**Ynagisa & Skydome & PigeONCity*，让玩家感受人文主义现代化城市之美
+**Ynagisa & Skydome & PigeONCity**，让玩家感受人文主义现代化城市之美
 
 这是 烟渚 & 天穹 & 鸽城 的官方网站，采用[`vitepress`](https://vitepress.dev/)作为驱动。
 
