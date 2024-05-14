@@ -41,8 +41,11 @@ YARN_VERSION = 1.22.22
 ```
 
 构建区域需要做以下调整
+
+```bash
 - 构建命令设置为 `yarn docs:build`
 - 输出目录设置为 `docs/.vitepress/dist/`
+```
 
 4. 点击`部署`即可。
 
