@@ -57,12 +57,14 @@ YARN_VERSION = 1.22.22
 > [!WARNING]  
 > 如果不打算在 GitHub Page 部署，请忽视此部分，否则 Actions 会频繁报错
 
-1. 参照注释修改`.github/workflows`目录中的`deploy.yml.demo` 文件。
+1. `fork`本仓库
 
-2. 将`deploy.yml.demo`重命名为`deploy.yml`。
+2. 参照注释修改`.github/workflows`目录中的`deploy.yml.demo` 文件。
 
-3. 在存储库设置中的`Pages`菜单项下，选择`Build and deployment` > `Source` > `GitHub Actions`。
+3. 将`deploy.yml.demo`重命名为`deploy.yml`。
 
-4. 将更改推送到`你所设定的分支`并等待 GitHub Action 工作流完成。
+4. 在存储库设置中的`Pages`菜单项下，选择`Build and deployment` > `Source` > `GitHub Actions`。
+
+5. 将更改推送到`你所设定的分支`并等待 GitHub Action 工作流完成。
 
 你应该看到站点部署到`https://<username>.github.io/[repository]/`或`https://<custom-domain>/`，这取决于你的设置。你的站点将在`你所设定的分支`出现新的提交时自动部署。
