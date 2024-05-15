@@ -10,7 +10,7 @@
 > [!IMPORTANT]  
 > 本地部署指的是在本地构建静态文件，不包含如何部署到 Web 服务，请善用搜索引擎解决部署到 Web 服务的问题
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > 如果不想自行构建，请前往[`Releases`](https://github.com/JXSG-UP/YSP-Server/releases)下载最新的构建
 > 你应该下载文件名类似`YSP-Server-xxxx-xx-xx.zip`的文件，而不是下载`Source Code`。
 
