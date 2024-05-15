@@ -12,6 +12,7 @@
 
 > [!NOTE]  
 > 如果不想自行构建，请前往[`Releases`](https://github.com/JXSG-UP/YSP-Server/releases)下载最新的构建
+>
 > 你应该下载文件名类似`YSP-Server-xxxx-xx-xx.zip`的文件，而不是下载`Source Code`。
 
 前置要求：
