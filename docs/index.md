@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 加入我们
-      link: /Join
+      link: /join
     - theme: alt
       text: 风景一览
       link: /view

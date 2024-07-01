@@ -72,7 +72,7 @@ const members = [
     name: 'Takigawa',
     title: 'Server Administrator & Owner',
     links: [
-      { icon: 'bilibili', link: 'https://space.bilibili.com/1642321436' }
+      { icon: 'bilibili', link: 'https://space.bilibili.com/37471042' }
     ]
   },
    {
