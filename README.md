@@ -2,7 +2,7 @@
 
 **Ynagisa & Skydome & PigeONCity**，让玩家感受人文主义现代化城市之美
 
-这是 烟渚 & 天穹 & 鸽城 的官方网站，采用[`vitepress`](https://vitepress.dev/)作为驱动。
+这是 烟渚 & 天穹 & 鸽城 的官方网站，采用 [`vitepress`](https://vitepress.dev/) 作为驱动。
 
 ## 运行
 ### 本地部署
@@ -11,7 +11,7 @@
 > 本地部署指的是在本地构建静态文件，不包含如何部署到 Web 服务，请善用搜索引擎解决部署到 Web 服务的问题
 
 > [!NOTE]  
-> 如果不想自行构建，请前往[`Releases`](https://github.com/JXSG-UP/YSP-Server/releases)下载最新的构建
+> 如果不想自行构建，请前往 [`Releases`](https://github.com/JXSG-UP/YSP-Server/releases) 下载最新的构建
 >
 > 你应该下载文件名类似`YSP-Server-xxxx-xx-xx.zip`的文件，而不是下载`Source Code`。
 
