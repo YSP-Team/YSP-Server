@@ -25,7 +25,7 @@ export default defineConfig({
           { text: 'Github repository', link: 'https://github.com/JXSG-UP/YSP-Server' }
         ]}
     ],
-    logo: 'https://t-imghost.pages.dev/file/af2ee627d5e5152c79818.png',
+    logo: 'https://t-imghost.pages.dev/file/f5f2ae932f145a8c36dd4.png',
     socialLinks: [
       { icon: 'QQ Group', link: 'https://qm.qq.com/q/HhoxMGLwyq', }
     ],
