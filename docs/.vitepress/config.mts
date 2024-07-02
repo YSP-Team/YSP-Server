@@ -26,7 +26,7 @@ export default defineConfig({
         ]}
     ],
     logo: 'https://t-imghost.pages.dev/file/f5f2ae932f145a8c36dd4.png',
-    siteTitle: true
+    siteTitle: true,
     socialLinks: [
       { icon: 'QQ Group', link: 'https://qm.qq.com/q/HhoxMGLwyq', }
     ],
