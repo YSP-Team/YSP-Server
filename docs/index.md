@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Minecraft服务器"
   text: "Ynagisa & Skydome & PigeONCity"
-  tagline: 让玩家感受人文主义现代化城市之美
+  tagline: 轨道通达，城市繁荣
   actions:
     - theme: brand
       text: 加入我们
