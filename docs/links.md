@@ -83,6 +83,15 @@ const members = [
       { icon: 'website', link: 'https://www.akio.top/' }
     ]
   },
+    {
+    avatar: 'https://i1.hdslb.com/bfs/face/ded1f75b871018a0387ea4864a10ece62710840f.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif',
+    name: 'IF-游戏业界的一阵风',
+    title: 'Creator',
+    links: [
+      { icon: 'website', link: 'https://if-chan.mika.vin/' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/14823193' },     
+    ]
+  },
   {
     avatar: 'https://i0.hdslb.com/bfs/face/af896ea48924bdea9fba76c645b24458d650c5de.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif',
     name: 'Leo Tinyat',
