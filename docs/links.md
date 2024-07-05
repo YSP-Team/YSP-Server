@@ -53,8 +53,8 @@ const members = [
   },
   {
     avatar: 'https://t-imghost.pages.dev/file/8467140519ced3ea70fd6.jpg',
-    name: 'XXXXYOUXI (Chi YX)',
-    title: 'Builder / Creator',
+    name: 'XXXXYOUXI',
+    title: 'Builder / Creator Chi YX',
     links: [
       { icon: 'bilibili', link: 'https://space.bilibili.com/1596446033' }
     ]
@@ -85,8 +85,8 @@ const members = [
   },
     {
     avatar: 'https://t-imghost.pages.dev/file/8467140519ced3ea70fd6.jpg',
-    name: 'IF-游戏业界的一阵风 大魔王IF！',
-    title: 'Creator',
+    name: 'IF-游戏业界的一阵风',
+    title: 'Creator 大魔王IF！',
     links: [
       { icon: 'website', link: 'https://if-chan.mika.vin/' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/14823193' },    
