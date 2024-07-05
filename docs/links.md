@@ -89,7 +89,9 @@ const members = [
     title: 'Creator',
     links: [
       { icon: 'website', link: 'https://if-chan.mika.vin/' },
-      { icon: 'bilibili', link: 'https://space.bilibili.com/14823193' },     
+      { icon: 'bilibili', link: 'https://space.bilibili.com/14823193' },    
+      { icon: 'twitter', link: 'https://twitter.com/KagamineX' },
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCu1u-4pgzdnQ_Q6hIr_dmGA' }
     ]
   },
   {
