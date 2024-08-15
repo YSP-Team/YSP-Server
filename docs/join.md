@@ -1,3 +1,3 @@
-> # [QQ Group ](https://qm.qq.com/q/HhoxMGLwyq)
+> # [QQ Group-备群](https://qm.qq.com/q/YZhTaUmJIi)
 
-![1714749977319](image/join/1714749977319.png)
+
