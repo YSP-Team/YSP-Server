@@ -21,7 +21,7 @@ export default defineConfig({
         text: "More",
         items: [
           { text: 'Links', link: '/links' },
-          { text: 'Join US', link: 'https://qm.qq.com/q/HhoxMGLwyq' },
+          { text: 'Join US', link: '/join' },
           { text: 'Github repository', link: 'https://github.com/JXSG-UP/YSP-Server' }
         ]}
     ],
