@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Minecraft服务器"
-  text: "Ynagisa & Skydome & PigeONCity"
+  text: "Ynagisa & Skydome & NGang & PigeONCity"
   tagline: 轨道通达，城市繁荣
   actions:
     - theme: brand
@@ -36,7 +36,7 @@ features:
 <style>
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(135deg,#b8860b 30%,#ff0000 ,#68bcff,#68bcff );
+  --vp-home-hero-name-background: -webkit-linear-gradient(135deg, #b8860b 30%, #ff0000, #f0f0f0, #68bcff, #68bcff);
 
   --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
   --vp-home-hero-image-filter: blur(44px);

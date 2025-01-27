@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "烟渚 & 天穹 & 鸽城",
+  title: "烟渚 & 天穹 & 凝港 & 鸽城",
   description: "公益MOD城市服 丨 Minecraft服务器",
   head: [['link', { rel: 'icon', href: '/image/logo.png' }]],
   locales: {
@@ -30,7 +30,7 @@ export default defineConfig({
       { icon: 'QQ Group', link: 'https://qm.qq.com/q/HhoxMGLwyq', }
     ],
     footer: {
-      copyright: '© 2077 Ynagisa & Skydome & PigeONCity'
+      copyright: '© 2077 Ynagisa & Skydome & NGang & PigeONCity'
     }
   }
 })

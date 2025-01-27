@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Ynagisa & Skydome & PigeONCity"
+  name: "Ynagisa & Skydome & NGang & PigeONCity"
   text: ""
   tagline: 公益MOD城市服 丨 Minecraft服务器
 ---
